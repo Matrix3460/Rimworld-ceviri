@@ -1,0 +1,2 @@
+# Rimworld-ceviri
+ideolojy ceviri
